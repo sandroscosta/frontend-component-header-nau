@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edx/frontend-component-header.git"
+    "url": "git+https://github.com/sandroscosta/frontend-component-header-nau.git"
   },
   "author": "edX",
   "license": "AGPL-3.0",
